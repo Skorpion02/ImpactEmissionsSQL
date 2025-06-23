@@ -1,10 +1,10 @@
 # ImpactEmissionsSQL
 
-[![License](https://img.shields.io/github/license/Skorpion02/ImpactoEmisionesSQL?color=blue)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/Skorpion02/ImpactoEmisionesSQL?logo=github)](https://github.com/Skorpion02/ImpactoEmisionesSQL/commits/main)
-[![Open Issues](https://img.shields.io/github/issues/Skorpion02/ImpactoEmisionesSQL?color=yellow)](https://github.com/Skorpion02/ImpactoEmisionesSQL/issues)
-[![Forks](https://img.shields.io/github/forks/Skorpion02/ImpactoEmisionesSQL?style=social)](https://github.com/Skorpion02/ImpactoEmisionesSQL/network/members)
-[![Stars](https://img.shields.io/github/stars/Skorpion02/ImpactoEmisionesSQL?style=social)](https://github.com/Skorpion02/ImpactoEmisionesSQL/stargazers)
+[![License](https://img.shields.io/github/license/Skorpion02/ImpactEmissionsSQL?color=blue)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Skorpion02/ImpactEmissionsSQL?logo=github)](https://github.com/Skorpion02/ImpactEmissionsSQL/commits/main)
+[![Open Issues](https://img.shields.io/github/issues/Skorpion02/ImpactEmissionsSQL?color=yellow)](https://github.com/Skorpion02/ImpactEmissionsSQL/issues)
+[![Forks](https://img.shields.io/github/forks/Skorpion02/ImpactEmissionsSQL?style=social)](https://github.com/Skorpion02/ImpactEmissionsSQL/network/members)
+[![Stars](https://img.shields.io/github/stars/Skorpion02/ImpactEmissionsSQL?style=social)](https://github.com/Skorpion02/ImpactEmissionsSQL/stargazers)
 
 ---
 
@@ -19,7 +19,6 @@
 - [Project Overview](#-project-overview)
 - [Features](#-features)
 - [Installation](#-installation)
-- [Usage](#-usage)
 - [Project Structure](#-project-structure)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -42,7 +41,7 @@
 1. **Clone the repository**
     ```bash
     git clone https://github.com/Skorpion02/ImpactoEmisionesSQL.git
-    cd ImpactoEmisionesSQL
+    cd ImpactEmissionsSQL
     ```
 
 2. **Set up your SQL environment**
@@ -72,7 +71,7 @@ ImpactoEmisionesSQL/
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/Skorpion02/ImpactoEmisionesSQL/issues) or submit a pull request.
+Feel free to check the [issues page](https://github.com/Skorpion02/ImpactEmissionsSQL/issues) or submit a pull request.
 
 ---
 
