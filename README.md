@@ -62,7 +62,7 @@
 ```
 ImpactoEmisionesSQL/
 ├── emisiones.sql
-├── emisiones2020, emisiones2021, emisiones2022, emisiones2023
+├── emisiones2020.csv, emisiones2021.csv, emisiones2022.csv, emisiones2023.csv
 └── README.md 
 ```
 
