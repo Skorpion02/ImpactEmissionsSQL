@@ -1,6 +1,3 @@
 *.sql linguist-detectable=true
-*.csv linguist-detectable=true
 *.sql linguist-language=SQL
-*.csv linguist-language=CSV
 scripts/*.sql linguist-language=SQL
-data/*.csv linguist-language=CSV
