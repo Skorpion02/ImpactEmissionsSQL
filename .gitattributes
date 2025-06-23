@@ -1,1 +1,4 @@
-ImpactEmissionsSQL.sql linguist-language=SQL
+*.sql linguist-language=SQL
+*.csv linguist-language=CSV
+scripts/*.sql linguist-language=SQL
+data/*.csv linguist-language=CSV
